@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    color: whitesmoke;
+}
+
+.page{
+    overflow-y: hidden;
+    text-align: center;
+    position: relative;
+    top: 200px;
+}
+
+#submit {
+    width: 100px;
+    color: black;
+    background-color: white;
+    border: none;
+}
+
+.password {
+    position: relative;
+    right: 12px;
+}
